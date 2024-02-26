@@ -24,5 +24,5 @@ Here is a tentative schedule for the release and due dates of the assignments in
 
 * Assignment 1: Released on Tuesday, Jan 9, due on Sunday, Jan 28
 * Assignment 2: Released on Thursday, Jan 25, due on Sunday, Feb 11
-* Assignment 3: Released on Tuesday, Feb 13, due on Sunday, Mar 3
-* Assignment 4: Released on Thursday, Feb 29, due on Sunday, Mar 17
+* Assignment 3: Released on Thursday, Feb 8, due on Sunday, Mar 3
+* Assignment 4: Released on Thursday, Feb 22, due on Sunday, Mar 17

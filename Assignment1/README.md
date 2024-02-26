@@ -23,7 +23,7 @@ This assignment is due on **Sunday, Jan 28**.
 ❗**Once you have finished all the questions, it will still take approximately *60 minutes* to re-run the entire notebook in order to prepare the submission version. Make sure to allocate enough time for this task and start early.**
 
 ### Submission
-Submit the completed notebook to BruinLearn. Make sure you have completed all the code implementations (marked as **Your Implementations **), and answered all the blanks at the end of each question.
+Submit the completed notebook to BruinLearn. Make sure you have completed all the code implementations with all the results printed(marked as **Your Implementations **), and answered all the blanks at the end of each question.
 
 ---
 
